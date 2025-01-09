@@ -1,0 +1,34 @@
+       /* Dark theme background and light text */
+       body {
+        background-color: #333;
+        color: #fff;
+    }
+
+    .container {
+        margin-top: 50px;
+    }
+
+    /* Green-colored flower name */
+    #flowerName {
+        color: rgb(129, 255, 129);
+    }
+
+    /* Custom styles for the image */
+    #flowerImage {
+        display: block;
+        margin-top: 20px;
+        width: 250px;
+        height: auto;
+        border-radius: 8px;
+    }
+
+    /* Button styling for dark theme */
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+    }
